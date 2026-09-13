@@ -1,6 +1,7 @@
 # Flight Reservation System
 
 A Java desktop application for managing airline reservations, flight bookings, employee operations, and customer account activities. The system is built using Java Swing and follows a simple GUI-based workflow for both passengers and employees.
+<img width="1135" height="643" alt="{13E98264-226A-48D4-8E94-7301AC049E22}" src="https://github.com/user-attachments/assets/8708817c-44fb-4865-a0c9-7449d1d24374" />
 
 ## Project Overview
 
