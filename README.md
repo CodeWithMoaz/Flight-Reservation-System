@@ -1,20 +1,57 @@
 # Flight Reservation System
 
 A Java desktop application for managing airline reservations, flight bookings, employee operations, and customer account activities. The system is built using Java Swing and follows a simple GUI-based workflow for both passengers and employees.
-<img width="1135" height="643" alt="{13E98264-226A-48D4-8E94-7301AC049E22}" src="https://github.com/user-attachments/assets/8708817c-44fb-4865-a0c9-7449d1d24374" />
+
+<img width="1135" height="643" alt="{13E98264-226A-48D4-8E94-7301AC049E22}" src="https://github.com/user-attachments/assets/6eb76df8-c9b9-49b8-9f97-fbffc5f5fbd9" />
+
 
 ## Project Overview
 
 This project allows users to:
 
 - Create and manage passenger accounts
+  
+<img width="975" height="661" alt="{9E04FD45-655C-47C5-9E19-2A82A2A4A7F8}" src="https://github.com/user-attachments/assets/d1fce1d4-c460-4127-b30a-beb5afe7b59d" />
+
+<img width="986" height="663" alt="{ED9C9F93-D6AB-4214-84A2-D9E4CF2087D9}" src="https://github.com/user-attachments/assets/fb40b415-a023-4ab4-b47e-f493853b2fea" />
+
+
+  
 - Log in as a passenger or employee
+  
+<img width="816" height="979" alt="{5F8993AA-578C-4DFE-8EA2-9955AC9BBB61}" src="https://github.com/user-attachments/assets/85e80ae7-93d9-4111-84b5-b3f871f8a0ec" />
+  
 - View available flights
+
+<img width="1056" height="613" alt="{1FE1D43C-1FEB-4284-B8C7-7F4FC80EC4D0}" src="https://github.com/user-attachments/assets/09639af9-25e5-409a-910b-4564754f6726" />
+
+  
 - Reserve flights and manage booking details
+  
+<img width="575" height="500" alt="{5F32EFFC-6EF7-4C79-852C-7BEA3644D977}" src="https://github.com/user-attachments/assets/cbc93205-e22a-4aec-8b77-911a890fecbe" />
+
+
+
 - Process payments for reservations
+<img width="572" height="503" alt="{70CC97D6-50D8-456C-A1E2-E17581653A55}" src="https://github.com/user-attachments/assets/ff153683-cc09-42ad-b42e-faf1d932207e" />
+<img width="578" height="500" alt="{B9342683-829A-4E8F-9018-FE39747F192A}" src="https://github.com/user-attachments/assets/d5aef264-2e6f-454d-b6ca-e1ba22c81d8c" />
+
 - Review booking history
+
+<img width="1055" height="612" alt="{8ECAA29B-412E-4980-A198-B2903A67779B}" src="https://github.com/user-attachments/assets/9da93576-400e-4548-ac0f-f50066c0ad9e" />
+
+  
 - Add flight feedback
+
+<img width="1056" height="614" alt="{03B8690A-588A-422F-B938-4A1BBF6FA085}" src="https://github.com/user-attachments/assets/6b4351e8-bb9c-483e-b6b5-6804e20474a7" />
+
+  
 - Manage account and flight records from the employee side
+  
+<img width="628" height="552" alt="{67C01B56-CC57-478E-8FED-8ED77D87BAD4}" src="https://github.com/user-attachments/assets/64027859-972c-4fbe-8bfa-28c42e689489" />
+<img width="635" height="690" alt="{D0FCC4DE-7A46-45FB-9ED8-D33DC3B5CFF6}" src="https://github.com/user-attachments/assets/0de01c7d-2160-4d14-930b-9e85430c10d0" />
+<img width="669" height="502" alt="{0132FEE0-9656-43D6-ADA3-A8EA0500E1B6}" src="https://github.com/user-attachments/assets/8401e6e0-f012-48a3-9235-de86731e84fa" />
+
 
 The application starts from the login screen and routes users based on their account type.
 
